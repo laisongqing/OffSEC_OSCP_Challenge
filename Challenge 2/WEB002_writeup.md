@@ -1,4 +1,4 @@
-<img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/af86a797-198f-4cbb-9e3f-ea387a23127d" />## nmap scannning
+## nmap scannning
 - <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/a66d0886-6d2b-4bb3-8ca7-81a1f5577232" />
 - <img width="1920" height="570" alt="image" src="https://github.com/user-attachments/assets/d4001de7-d692-476a-8b0d-157df742b328" />
 

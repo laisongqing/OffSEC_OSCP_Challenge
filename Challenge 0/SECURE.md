@@ -1,4 +1,4 @@
-<img width="1920" height="806" alt="image" src="https://github.com/user-attachments/assets/368abac7-8d4a-441e-8573-b39ecdc3d658" />## namp scanning
+## namp scanning
 - <img width="1920" height="782" alt="image" src="https://github.com/user-attachments/assets/d02ec2f2-983b-406f-a603-6a13d38640bf" />
 - <img width="1920" height="795" alt="image" src="https://github.com/user-attachments/assets/2ef59404-14dd-4e92-ba22-1f4017f45f8e" />
 

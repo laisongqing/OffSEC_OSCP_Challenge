@@ -24,6 +24,11 @@
 
 
 
+## 提權
+- msfconsole
+  - <img width="1749" height="690" alt="image" src="https://github.com/user-attachments/assets/3a9b234c-1413-4729-b02a-4a80020d24a2" />
+- 取得 proof.txt
+  - <img width="819" height="107" alt="image" src="https://github.com/user-attachments/assets/54f367dd-5334-4990-acaa-0b32c6a17266" />
 
 
 

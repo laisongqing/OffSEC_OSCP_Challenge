@@ -20,9 +20,12 @@
   - <img width="1920" height="773" alt="image" src="https://github.com/user-attachments/assets/75046933-60d6-44f1-9837-3e0594e3b2d8" />
 
 ## 3389 port
-- 
-
-
+- 嘗試登入 joe、wario、yoshi，結果只有 yoshi 成功 RDP 登入
+  - <img width="1916" height="672" alt="image" src="https://github.com/user-attachments/assets/33939475-c672-455c-b7b4-ad4700f384c9" />
+  - <img width="1920" height="671" alt="image" src="https://github.com/user-attachments/assets/9f8e2856-e559-4f34-9d07-26cb60463154" />
+  - <img width="1920" height="747" alt="image" src="https://github.com/user-attachments/assets/f9298c00-3277-443b-b0b3-d5017e2cc1c8" />
+- 取得 local.txt
+  - <img width="1920" height="870" alt="image" src="https://github.com/user-attachments/assets/ef647ea6-ed83-4799-b66f-bdec78c1e2df" />
 
 ## 提權
 - msfconsole

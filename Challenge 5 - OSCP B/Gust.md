@@ -10,6 +10,12 @@
 - 取得 local.txt
   - <img width="840" height="82" alt="image" src="https://github.com/user-attachments/assets/68e6689c-b398-4653-8b31-f68a172665b9" />
 
+## 提權
+- msfconsole
+  - getsytem 直接成功提權
+    - <img width="1512" height="573" alt="image" src="https://github.com/user-attachments/assets/f5dfe1f3-191a-4100-ba89-6e9374110cc5" />
+- 取得 proof.txt
+  - <img width="897" height="97" alt="image" src="https://github.com/user-attachments/assets/9789ab04-f48c-4ed3-a09e-e2568ab9f8ba" />
 
 
 

@@ -12,7 +12,10 @@
   - <img width="1918" height="591" alt="image" src="https://github.com/user-attachments/assets/9f25cc4f-7067-4136-bbdc-1f701d944663" />
 - msfconsole
   - 設定完後，成功取得 shell
-    - 
+    - <img width="1918" height="561" alt="image" src="https://github.com/user-attachments/assets/ddf3e8c1-600a-4e18-83ea-c9318fa28cee" />
+- 取得 local.txt
+  - <img width="640" height="76" alt="image" src="https://github.com/user-attachments/assets/302bec88-e1b8-457e-8d39-9624852f76ce" />
+
 
 
 

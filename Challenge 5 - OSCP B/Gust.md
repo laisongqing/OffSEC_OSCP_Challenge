@@ -6,7 +6,7 @@
   - https://www.exploit-db.com/exploits/47698
 - msfconsole
  - 設定完後，成功取得 shell
-   - <img width="1837" height="458" alt="image" src="https://github.com/user-attachments/assets/eedcea34-933f-43b8-92ea-0ed4f6791681" />
+   - <img width="1722" height="601" alt="image" src="https://github.com/user-attachments/assets/68427e83-e607-4ce0-9cd3-46a00660b622" />
 - 取得 local.txt
   - <img width="840" height="82" alt="image" src="https://github.com/user-attachments/assets/68e6689c-b398-4653-8b31-f68a172665b9" />
 

@@ -16,6 +16,11 @@
 - 取得 local.txt
   - <img width="640" height="76" alt="image" src="https://github.com/user-attachments/assets/302bec88-e1b8-457e-8d39-9624852f76ce" />
 
+## 提權
+- msfconsole
+  - <img width="1627" height="532" alt="image" src="https://github.com/user-attachments/assets/a2356f03-619a-42e6-8f13-32c63c97cc13" />
+- 取得 proof.txt
+  - <img width="1202" height="391" alt="image" src="https://github.com/user-attachments/assets/692be2ea-debd-4e12-8c82-04ea4e78898a" />
 
 
 

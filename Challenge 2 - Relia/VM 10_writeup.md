@@ -24,8 +24,13 @@
   - <img width="1920" height="743" alt="image" src="https://github.com/user-attachments/assets/9086a0b8-a298-458b-a254-77b420d7a2a0" />
 
 ## 提權
-- msfconsole
-  - <img width="1920" height="634" alt="image" src="https://github.com/user-attachments/assets/955e8c31-473d-4762-ada4-2595522b7c84" />
+- linpeas.sh [CVE-2021-3156] sudo Baron Samedit
+  - <img width="1918" height="180" alt="image" src="https://github.com/user-attachments/assets/2dcf0bd3-7d24-4f81-bc47-fdefbf4b06fb" />
+- github
+  - https://github.com/blasty/CVE-2021-3156
+- 成功提權
+  - <img width="1402" height="612" alt="image" src="https://github.com/user-attachments/assets/7b5dd137-8b7e-4efa-b333-89cc3097f1be" />
+  - <img width="1763" height="278" alt="image" src="https://github.com/user-attachments/assets/1d99d34a-7248-4086-bdeb-e6b46ff7d8c8" />
 - 取得 proof.txt
   - <img width="1156" height="58" alt="image" src="https://github.com/user-attachments/assets/ea3be5b9-95f7-4b9e-879f-910f4f778194" />
 

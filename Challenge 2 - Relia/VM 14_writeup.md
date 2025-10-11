@@ -57,7 +57,13 @@ nmap -sC -sV -sS -Pn -p- -T4 192.168.126.249 --min-rate 1000
 - 取得 proof.txt
   - <img width="909" height="109" alt="image" src="https://github.com/user-attachments/assets/71fb2727-56fb-4f0a-95c1-18542628c83e" />
 
-
+## git
+- 在 C:\staging 底下發現有 .git
+  - <img width="898" height="365" alt="image" src="https://github.com/user-attachments/assets/677e2346-0389-455b-8465-dd19290c6b00" />
+- 輸入 git show 將資料 git 出來
+  - <img width="1918" height="507" alt="image" src="https://github.com/user-attachments/assets/fa3a942a-bceb-4117-addc-b3a992a20bf5" />
+- 發現 maildmz:DPuBT9tGCBrTbR
+  - <img width="1918" height="537" alt="image" src="https://github.com/user-attachments/assets/2aed556f-bb8a-4dc2-8371-15cb8d1e5031" />
 
 
 

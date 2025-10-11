@@ -35,8 +35,10 @@
   - <img width="1060" height="805" alt="image" src="https://github.com/user-attachments/assets/349924e3-5fbb-4c40-a5c6-bed70bd325fe" />
 
 ## 提權
-- metasploit
-  - <img width="1920" height="722" alt="image" src="https://github.com/user-attachments/assets/e9a433af-b188-4a8f-96b2-c32f14deb448" />
+- CVE-2023-28252 
+  - https://github.com/duck-sec/CVE-2023-28252-Compiled-exe
+  - 成功提權
+    - <img width="1918" height="832" alt="image" src="https://github.com/user-attachments/assets/13d70742-5781-4d0a-9d23-5763ed7542e5" />
 - 取得 proof.txt
   - <img width="804" height="100" alt="image" src="https://github.com/user-attachments/assets/932532d5-8633-4a59-ba0d-21b33d2a3b19" />
 
